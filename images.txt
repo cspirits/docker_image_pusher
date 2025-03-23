@@ -3,3 +3,4 @@ hyperledger/fabric-orderer:2.2.15
 hyperledger/fabric-ccenv:2.2.15
 hyperledger/fabric-baseos:2.2.15
 hyperledger/fabric-ca:1.5.9
+hyperledger/fabric-tools:2.2.15
